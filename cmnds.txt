@@ -61,3 +61,18 @@ git merge branchname
 
 git pull origin main (import new changes)
 
+
+
+
+mistake
+
+
+after add
+git reset filename -> unadd the last add command
+git reset -> last change for all
+
+git commit
+git reset HEAD~1
+
+
+git log -> all commit info
