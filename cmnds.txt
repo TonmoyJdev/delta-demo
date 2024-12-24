@@ -57,3 +57,6 @@ merge
 
 git diff branchname -> difference between two branches on commits, files etc
 git merge branchname 
+
+
+git pull origin main (import new changes)
