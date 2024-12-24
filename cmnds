@@ -1,0 +1,16 @@
+git clone file-Link
+git status--> changes
+
+file that already in git -> tracked
+create new file -> untracked
+
+untracked ()
+unmodified () -> new file but not modified
+modified () -> modify in file
+staged () -> commit here
+
+
+commit in two states: 
+add -> modified to staged -> adds new or changed files into working direcotry
+
+commit -> final -> it is the record of change -> with some messages
