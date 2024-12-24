@@ -76,3 +76,6 @@ git reset HEAD~1
 
 
 git log -> all commit info
+
+
+git reverse
