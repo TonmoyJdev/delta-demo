@@ -56,4 +56,4 @@ merge
 
 
 git diff branchname -> difference between two branches on commits, files etc
-
+git merge branchname 
