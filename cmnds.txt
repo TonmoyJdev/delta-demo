@@ -79,7 +79,3 @@ git log -> all commit info
 
 
 git reverse
-
-extra1
-
-extra2
