@@ -79,3 +79,7 @@ git log -> all commit info
 
 
 git reverse
+
+
+git reset hard gitcommitlink -> all changes will be gone
+git reset gitcommitlink -> all changes after this will be nonpush
