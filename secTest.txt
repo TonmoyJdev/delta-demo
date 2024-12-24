@@ -1,1 +1,4 @@
 it's a test file
+
+if there is a github account is connected already in our device we need to delete credential first
+

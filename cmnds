@@ -14,3 +14,27 @@ commit in two states:
 add -> modified to staged -> adds new or changed files into working direcotry
 
 commit -> final -> it is the record of change -> with some messages
+
+
+git push origin main
+
+git init -> for making new repository
+
+# new project was created from local system
+steps:
+
+1. init
+2. git add .
+3. git commit -m "cmnt1"
+4. create repository in github
+5. git remote add origin <git link>
+6. git remote -v for checking from where push fetch
+
+
+git branch -> to check branch
+git branch -M main
+
+if we use (git push -u origin main) then we don't need to write origin again and again
+
+
+commit + add -> git commit -am "message"
