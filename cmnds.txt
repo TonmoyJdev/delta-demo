@@ -38,3 +38,13 @@ if we use (git push -u origin main) then we don't need to write origin again and
 
 
 commit + add -> git commit -am "message"
+
+    branch
+--------------
+for simultaneous working
+
+git branch -> check branches + green for current branch
+git branch -M newname -> rename current branch to newname
+git checkout branchname -> navigate to other branch
+git checkout -b branchname -> create new branch
+git branch -d branchname -> delete branch (can't delete current branch)
