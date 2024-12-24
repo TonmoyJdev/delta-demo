@@ -51,3 +51,9 @@ git branch -d branchname -> delete branch (can't delete current branch)
 
 
 new branch need to set upstream when push first
+
+merge
+
+
+git diff branchname -> difference between two branches on commits, files etc
+
